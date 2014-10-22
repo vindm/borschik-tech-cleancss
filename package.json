@@ -4,14 +4,14 @@
   "description": "borschik CSS tech based on CleanCSS",
   "main": "index.js",
   "dependencies": {
-    "clean-css": "2.2.16"
+    "clean-css": "git://github.com/jakubpawlowicz/clean-css.git#f121d8d4c23cd1351a16254b21a9879e746febfe"
   },
   "peerDependencies": {
     "borschik": ">=1.0.5"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/doochik/borschik-tech-cleancss.git"
+    "url": "git://github.com/vindm/borschik-tech-cleancss.git"
   },
   "keywords": [
     "borschik",
